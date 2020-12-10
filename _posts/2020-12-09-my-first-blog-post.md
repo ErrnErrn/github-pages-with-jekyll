@@ -1,4 +1,3 @@
-
 ---
 title: "24 Hour Blog-a-thon"
 date: 2020-12-09
